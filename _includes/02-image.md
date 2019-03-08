@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![image of Samfield](https://scontent-los2-1.xx.fbcdn.net/v/t1.0-1/c27.0.160.160a/p160x160/52415883_10211444793510073_3816336737534214144_n.jpg?_nc_cat=103&_nc_ht=scontent-los2-1.xx&oh=7a0813f01ab8b18e10bfd8f95706007d&oe=5D1BC6D9)
